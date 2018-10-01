@@ -37,7 +37,7 @@ index_page:
   banner_is_safe: TurtleCoin est Sûr
   banner_one_liner: TurtleCoin est un moyen amusant, rapide et simple pour envoyer de l'argent à des amis ou pour le travail.
   banner_download: Téléchargement
-  banner_builds:  <strong> Nous avons des versions pour Windows, Apple et Ubuntu Linux. </strong> Si vous préférez le <strong>code source</strong>, vous pouvez le trouvez <a href="https://github.com/turtlecoin/turtlecoin/">ici </a>, mais vous pouvez aussi nous contacter <a href="http://chat.turtlecoin.lol">ici</a> car nous recherchons des gens comme vous.
+  banner_builds:  <strong> Nous avons des versions pour Windows, Apple et Ubuntu Linux. </strong> Si vous préférez le <strong>code source</strong>, vous pouvez le trouver <a href="https://github.com/turtlecoin/turtlecoin/">ici </a>, mais vous pouvez aussi nous contacter <a href="http://chat.turtlecoin.lol">ici</a> car nous recherchons des gens comme vous.
 
   # download section
   download_select_system: Choisissez votre Plateforme
